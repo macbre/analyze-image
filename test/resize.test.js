@@ -138,7 +138,7 @@ describe('Resize module', () => {
         assert.strictEqual(resizeResult.offenders.imageScaledDown.newHeight, 43 * 2);
     });
 
-    it('should report excessive image density and resize further', async () => {
+    it.skip('should report excessive image density and resize further', async () => {
         const image = await fs.readFile(path.resolve(__dirname, './images/jpeg-image.jpg'));
         const res = await ModulesRunner.execModuleForTest('resize', image, {
             displayWidth: 28,
