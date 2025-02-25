@@ -26,7 +26,7 @@
   "homepage": "https://github.com/gmetais/analyze-image#readme",
   "dependencies": {
     "css-calc-transform": "1.1.0",
-    "debug": "4.3.4",
+    "debug": "4.4.0",
     "file-type": "16.5.3",
     "htmlparser2": "9.0.0",
     "imagemin": "7.0.1",
