@@ -38,7 +38,7 @@
     "srcset": "4.0.0"
   },
   "devDependencies": {
-    "jest": "29.6.2"
+    "jest": "29.7.0"
   },
   "jest": {
     "verbose": true,
