@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gmetais/analyze-image.git"
+    "url": "git+https://github.com/macbre/analyze-image.git"
   },
   "keywords": [
     "image",
@@ -18,12 +18,15 @@
     "phantomas",
     "test"
   ],
-  "author": "Gaël Métais",
+  "authors": [
+    "Gaël Métais",
+    "Maciej Brencz"
+  ],
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/gmetais/analyze-image/issues"
+    "url": "https://github.com/macbre/analyze-image/issues"
   },
-  "homepage": "https://github.com/gmetais/analyze-image#readme",
+  "homepage": "https://github.com/macbre/analyze-image#readme",
   "dependencies": {
     "css-calc-transform": "1.1.0",
     "debug": "4.4.0",
