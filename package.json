@@ -38,7 +38,7 @@
     "is-svg": "3.0.0",
     "media-query-fns": "1.4.0",
     "sharp": "0.32.4",
-    "srcset": "4.0.0"
+    "srcset": "5.0.1"
   },
   "devDependencies": {
     "jest": "29.7.0"
