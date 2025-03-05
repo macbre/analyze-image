@@ -8,7 +8,7 @@
     "node": ">=18"
   },
   "scripts": {
-    "test": "jest test/ --coverage --detectOpenHandles"
+    "test": "NODE_OPTIONS='--experimental-vm-modules' jest test/ --coverage --detectOpenHandles"
   },
   "repository": {
     "type": "git",
@@ -49,6 +49,8 @@
   },
   "jest": {
     "verbose": true,
+    "transform": {},
+    "importAttributesKeyword": "with",
     "coveragePathIgnorePatterns": [
       "test/"
     ],
