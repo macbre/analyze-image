@@ -37,7 +37,7 @@
     "imagemin-svgo": "9.0.0",
     "is-svg": "3.0.0",
     "media-query-fns": "1.4.0",
-    "sharp": "0.32.4",
+    "sharp": "0.34.5",
     "srcset": "4.0.0"
   },
   "devDependencies": {
