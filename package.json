@@ -1,5 +1,5 @@
 {
-  "name": "analyze-image",
+  "name": "@macbre.net/analyze-image",
   "version": "1.0.0",
   "description": "Analyzes an image and detects potential improvements for a webpage",
   "main": "./lib/index.js",
@@ -35,7 +35,7 @@
     "imagemin": "7.0.1",
     "imagemin-gifsicle": "7.0.0",
     "imagemin-svgo": "9.0.0",
-    "is-svg": "3.0.0",
+    "is-svg": "^4.3.0",
     "media-query-fns": "1.4.0",
     "sharp": "0.34.5",
     "srcset": "4.0.0"
