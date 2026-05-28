@@ -43,6 +43,9 @@
   "devDependencies": {
     "jest": "30.4.2"
   },
+  "overrides": {
+    "uuid": "11.x"
+  },
   "jest": {
     "verbose": true,
     "coveragePathIgnorePatterns": [
