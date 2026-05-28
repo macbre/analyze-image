@@ -30,7 +30,7 @@
   "dependencies": {
     "css-calc-transform": "1.1.0",
     "debug": "4.4.3",
-    "file-type": "^16.5.4",
+    "file-type": "^22.0.1",
     "htmlparser2": "10.0.0",
     "imagemin": "7.0.1",
     "imagemin-gifsicle": "7.0.0",
