@@ -4,7 +4,7 @@ Analyzes an image for improvements on a webpage
 Deeply inspired by https://github.com/macbre/analyze-css
 
 ```
-npm i @macbre.net/analyze-css
+npm i @macbre.net/analyze-image
 ```
 
 ## Promise example
